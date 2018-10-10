@@ -1,0 +1,2 @@
+# Ignorer les fichiers de type .o et de type .a
+*.[oa]
